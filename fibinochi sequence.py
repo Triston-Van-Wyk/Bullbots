@@ -7,4 +7,4 @@ def fibinochi(length):
         a+=b
         b+=a
 
-fibinochi(int(input("sequence number")))
+fibinochi(int(input("sequence number:")))
