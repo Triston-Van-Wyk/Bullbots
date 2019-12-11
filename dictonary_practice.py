@@ -47,7 +47,7 @@ teens = {
     9: "nineteen"
 }
 
-num = 27
+num = 13
 print(num)
 
 ones_position = num % 10
