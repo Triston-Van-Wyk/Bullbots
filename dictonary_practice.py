@@ -47,7 +47,7 @@ teens = {
     9: "nineteen"
 }
 
-num = 13
+num = int(input("put a number to chose between 1-999 to write the word of that number:"))
 print(num)
 
 ones_position = num % 10
